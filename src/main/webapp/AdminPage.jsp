@@ -16,7 +16,7 @@
 <tr><td><input type="radio" name="adminOption" value="delete">Delete a Bank</td></tr>
 <tr><td><input type="radio" name="adminOption" value="display">Display Banks</td></tr>
 <tr><td><input type="submit" value="submit"></td></tr>
-<tr><td><a href="CustomerDetails">Customer Page</a></td></tr>
+<tr><td><a href="CustomerDetails.jsp">Customer Page</a></td></tr>
 </table>
 </form>
 </body>
